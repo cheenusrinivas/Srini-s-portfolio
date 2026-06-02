@@ -54,6 +54,15 @@ const PROJECTS = [
     github: "https://github.com/srinivasudhayasankar",
     live: "#",
   },
+  {
+    num: "05",
+    title: "LifelineRoofingandmasonry",
+    desc: "Full-service business website built for a Canadian roofing and masonry company based in Toronto. Features a responsive multi-section layout with a hero carousel, services section, filterable project portfolio, customer testimonials, FAQ, Google Maps integration, and a working contact form. Designed and delivered end-to-end by Salt Corp Solutions.",
+    stack: ["HTML5 · CSS3 · JavaScript · Bootstrap · Google Maps API"],
+    color: "#f59e0b",
+    github: "https://github.com/cheenusrinivas",
+    live: "https://lifelineroofingandmasonry.com",
+  },
 ];
 
 const EXPERIENCE = [
