@@ -39,3 +39,70 @@ Full-Stack Software Engineer based in Dublin, Ireland.
 ---
 
 ## 📁 Project Structure
+
+my-portfolio/
+├── public/
+│   └── index.html
+├── src/
+│   └── App.js          # entire portfolio in one component
+├── package.json
+└── README.md
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/cheenusrinivas/Srini-s-portfolio.git
+
+# Go into the folder
+cd Srini-s-portfolio
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## 📦 How to Deploy
+
+This portfolio is deployed on **Netlify** for free.
+
+```bash
+# Build the production version
+npm run build
+
+# Deploy to Netlify
+# Drag and drop the build/ folder to drop.netlify.com
+# OR connect your GitHub repo on app.netlify.com
+# for automatic deployments on every git push
+```
+
+---
+
+## 🎨 Design Decisions
+
+- **Dark theme** — easier on the eyes, looks more modern
+  and professional for a developer portfolio
+- **Purple accent colour (#7c3aed)** — stands out without
+  being too loud
+- **Georgia serif font** — gives an editorial, premium feel
+  different from typical developer portfolios
+- **One page layout** — recruiters spend 30 seconds on a 
+  portfolio, everything visible without clicking between pages
+- **Minimal dependencies** — no UI libraries used, 
+  everything built from scratch to demonstrate CSS skills
+
+---
+
+## 📬 Contact
+
+- 📧 inboxme.srinivas@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/srinivas-udhayasankar)
+- 🐙 [GitHub](https://github.com/cheenusrinivas)
